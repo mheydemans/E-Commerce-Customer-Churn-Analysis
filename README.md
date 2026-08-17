@@ -1,4 +1,4 @@
-# E-Commerce-Customer-Churn-Analysis
+# E-Commerce Customer Churn Analysis
 Project ini dibuat mengikuti guideline Portfolio Building dengan use case **E-Commerce Customers Churn Analysis**.
 
 ## Business Goal
