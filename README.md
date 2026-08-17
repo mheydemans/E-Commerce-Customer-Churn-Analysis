@@ -1,12 +1,6 @@
 # E-Commerce-Customer-Churn-Analysis
 Project ini dibuat mengikuti guideline Portfolio Building dengan use case **E-Commerce Customers Churn Analysis**.
 
-## Dataset
-- `Data Dict` — data dictionary dari tabel transaksi `E Comm`
-- `E Comm` — tabel transaksi data mentah
-- `E Comm Data Clean` — transaksi data yang sudah clean
-- `link:` https://docs.google.com/spreadsheets/d/1c0iWgc9cxCr4g1RK4YBPFVegQIHwLVYoBZ2vOoj78Wo/edit?gid=1642457125#gid=1642457125
-
 ## Business Goal
 Membantu Customer Retention / CRM Manager mengidentifikasi segmen pelanggan dengan churn tinggi dan menentukan prioritas tindakan retensi.
 
@@ -32,3 +26,13 @@ Membantu Customer Retention / CRM Manager mengidentifikasi segmen pelanggan deng
 3. Pelanggan tenure 0–3 bulan yang juga mengajukan keluhan memiliki churn rate **66.09%**.
 4. Kategori Mobile Phone memiliki churn rate **27.40%**.
 5. COD dan E-wallet menunjukkan churn di atas rata-rata.
+
+## Dataset
+- `Data Dict` — data dictionary dari tabel transaksi `E Comm`
+- `E Comm` — tabel transaksi data mentah
+- `E Comm Data Clean` — transaksi data yang sudah clean
+- `Google Spreadseet:` https://docs.google.com/spreadsheets/d/1c0iWgc9cxCr4g1RK4YBPFVegQIHwLVYoBZ2vOoj78Wo/edit?gid=1642457125#gid=1642457125
+
+## Dashboard
+- `Tableau Public:` https://public.tableau.com/app/profile/michael.heydemans/viz/Purwadhika-ECommerceDashboard/DashboardChurn
+
