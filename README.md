@@ -22,10 +22,16 @@ Membantu Customer Retention / CRM Manager mengidentifikasi segmen pelanggan deng
 
 ## Key Insights
 1. Tenure 0–3 bulan memiliki churn rate **41.86%**.
-2. Pelanggan yang mengajukan keluhan memiliki churn rate **31.67%**.
-3. Pelanggan tenure 0–3 bulan yang juga mengajukan keluhan memiliki churn rate **66.09%**.
-4. Kategori Mobile Phone memiliki churn rate **27.40%**.
+2. Pelanggan yang mengajukan keluhan memiliki churn rate **32%**, tanpa keluhan **11%**
+3. Pelanggan tenure 0–3 bulan yang juga mengajukan keluhan memiliki churn rate **66%**.
+4. Kategori Mobile Phone memiliki churn rate **27%**.
 5. COD dan E-wallet menunjukkan churn di atas rata-rata.
+
+## Rekomendasi Bisnis
+1. Program **First 90 days Retention**
+2. Menetapkan **Complaint Recovery SLA**
+3. Kampanye Khusus Pelanggan **Mobile Phone** serta Pengguna **COD** dan **E-wallet**
+4. Pengujian Bertahap **Insentif Cashback**
 
 ## Dataset
 - `Data Dict` — data dictionary dari tabel transaksi `E Comm`
