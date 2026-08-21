@@ -42,3 +42,6 @@ Membantu Customer Retention / CRM Manager mengidentifikasi segmen pelanggan deng
 ## Dashboard
 - `Tableau Public:` https://public.tableau.com/app/profile/michael.heydemans/viz/Purwadhika-ECommerceDashboard/DashboardChurn
 
+## Dashboard
+- `Link Video:` https://youtu.be/PMPuacuKntM
+
